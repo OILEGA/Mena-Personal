@@ -3,7 +3,7 @@ int sum(int test1, int test2);
 int avg(int sum, int n);
 
 int main(void) {
-  // A C Program to calculate the total scores and average of 5 students in a Logical Test
+  // A C Program using functions to calculate the total scores and average of 5 students in a Logical Test
   // Student 1
  int test1 = 80;
  int test2 = 68;
